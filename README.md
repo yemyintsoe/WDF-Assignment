@@ -1,9 +1,9 @@
 ## Web Development Foundation (WDF)’s Assignments
 
-I. Module 1: Introduction to Web Development
-What is web development?
-What is a website? And explain the differences between static and dynamic websites.
-Explain the differences of web design, front-end and back-end development.
+### I. Module 1: Introduction to Web Development
+1. What is web development?
+2. What is a website? And explain the differences between static and dynamic websites.
+3. Explain the differences of web design, front-end and back-end development.
 
 ### II. Module 2: HTML
 1. What does HTML stand for? And Explain what HTML is and why we use it?
