@@ -37,4 +37,5 @@
 15. What is responsive design? And provide some properties for implementing responsiveness in CSS.
 16. Create a simple responsive header section of a website using your own idea?
 
+#### If you think you are weak at English, just use Burmese for those answer.
 #### Hornbill Information Technology
